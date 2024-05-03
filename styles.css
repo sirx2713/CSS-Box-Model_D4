@@ -1,0 +1,57 @@
+body{
+    background-color: #C40C0C;
+}
+h1{
+    color: aliceblue;
+    font-family: 'SF Pro Display', serif;
+    font-size: 150px;
+    text-align: center;
+}
+#first-heading{
+    color: aliceblue;
+    font-family: 'SF Pro Display', serif;
+    margin-left: 80px;
+}
+#first-div{
+    height: 200px;
+    width: 200px;
+    background-color: #FF6500;
+    color: aliceblue;
+    font-family: "SF Pro Display", serif;
+    align-content: center;
+    padding: 20px;
+    border: 10px solid beige;
+}
+#second-heading{
+    color: aliceblue;
+    font-family: "SF Pro Display", serif;
+    margin-left: 380px;
+}
+#second-div{
+    height: 200px;
+    width: 200px;
+    background-color: #FF8A08;
+    color: aliceblue;
+    font-family: "SF Pro Display", serif;
+    text-align: center;
+    align-content: center;
+    padding: 20px;
+    border: 10px solid beige;
+    margin-left: 300px;
+}
+#third-heading{
+    color: aliceblue;
+    font-family: "SF Pro Display", serif;
+    margin-left: 680px;
+}
+#third-div{
+    height: 200px;
+    width: 200px;
+    background-color: #FFC100;
+    color: aliceblue;
+    font-family: "SF Pro Display", serif;
+    align-content: center;
+    padding: 20px;
+    border: 10px solid beige;
+    margin-left: 600px;
+}
